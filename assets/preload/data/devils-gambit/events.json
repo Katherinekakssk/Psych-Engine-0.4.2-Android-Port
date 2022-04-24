@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "cup-dem",
+		"player1": "bf-rojito",
+		"player2": "cup-dem",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFAYU",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dad Battle"
+	}
+}
