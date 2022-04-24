@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dodge instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DodgeMechsBS-Shader",
+	"position": [
+		120,
+		350
+	],
+	"healthicon": "maradona",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		650,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
